@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+pulp
+ortools
+pyomo
+transformers
+torch
+rasa==3.7.0
+python-dotenv
+pytest
